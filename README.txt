@@ -1,6 +1,8 @@
 ********************************************************************************
 Copyright Lloyd Lopes 2011-2018
 >>THESE FILES ARE NOW DEFUNCT. THE CODE NO LONGER WORKS AND IS FOR REFERENCE ONLY<<
+>>IN ADDITION , THIS FILE CONTAINS SOME NON OPTIMAL CODE. A FEW MISSING CODE COMMENTS<<
+>>AND SOME STRUCTURE WHICH ISN'T OPTIMAL. <<
 -------------------------------------------------------------------------------------
 
 Instructions for downloading the fundamentals data from Yahoo Finance.
